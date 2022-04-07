@@ -1,9 +1,8 @@
-#include <studio.h>
-
+#include <stdio.h>
 /**
  * main - entry point
  *
- * return: always 0 (sucess)
+ * return: 0 after printing the function 
  */
 int main(void)
 {
