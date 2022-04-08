@@ -4,7 +4,7 @@
  * main - print all possible combination of two different digits,
  *        in ascending order, separated by a comma followed by a space 
  *
- * Return: 0
+ * Return: Always 0
  */
 int main(void)
 {
